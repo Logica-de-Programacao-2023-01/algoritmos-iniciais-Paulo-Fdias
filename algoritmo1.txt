@@ -1,0 +1,4 @@
+leia x
+leia y
+soma x+y
+resultado
