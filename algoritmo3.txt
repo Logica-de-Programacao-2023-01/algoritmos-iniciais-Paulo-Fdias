@@ -1,0 +1,8 @@
+leia x 
+leia y
+x= somatória
+somatória: (x1 + x2 + x3 + ... + xn)
+y= n
+n: quantidade de números na somatória
+Média=x/y
+
