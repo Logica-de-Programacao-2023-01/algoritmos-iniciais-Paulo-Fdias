@@ -1,6 +1,7 @@
-leia x=Celsius
-leia y= Fahrenheit
-converter valores 
-se Celsius para Fahrenheit: x/5=y-32/9
-se Fahrenheit para Celsius: y-32/9=x/5
-resultado
+leia temperatura
+leia unidade
+se unidade igual a Celsius
+resultado = temperatura * 1.8 +32
+senão 
+resultado = temperatura/1.8 - 32
+
