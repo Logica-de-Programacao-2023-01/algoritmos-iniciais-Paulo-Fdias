@@ -1,0 +1,5 @@
+Busca linear(lista, elemento):
+para cada item na lista:
+se item = elemento
+retorne a posição do item na lista
+retorne "elemento não encontrado na lista"
