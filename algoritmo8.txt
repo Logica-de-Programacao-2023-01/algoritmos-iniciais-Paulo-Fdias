@@ -1,0 +1,6 @@
+leia x
+leia y
+x=base
+y=altura
+resultado x*y/2
+fim
