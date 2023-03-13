@@ -1,0 +1,7 @@
+leia x
+x inteiro
+fatoria>1
+enquanto x>0
+enquanto x<1
+x=x-1
+fim
