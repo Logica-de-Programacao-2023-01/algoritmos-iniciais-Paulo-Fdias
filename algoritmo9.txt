@@ -1,0 +1,6 @@
+juros compostos
+valor inicial=x
+taxa= (1+y)
+y é propocional ao tempo
+resultado x*(1+y)**t
+
