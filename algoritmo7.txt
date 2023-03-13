@@ -1,0 +1,9 @@
+leia x
+leia y
+se x=y
+enquanto x/2 diferente de 1 
+resultado x/y=1
+número primo
+se y diferente de x e divisão achar número inteiro
+não é primo
+
