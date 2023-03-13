@@ -1,0 +1,8 @@
+media ponderada(valores, pesos):
+somaPesos = 0
+somaValores = 0
+para i de 0 até o tamanho da lista valores - 1:
+somaPesos = somaPesos + pesos[i]
+somaValores = somaValores + valores[i] * pesos[i]
+media = somaValores / somaPesos
+retorne media
