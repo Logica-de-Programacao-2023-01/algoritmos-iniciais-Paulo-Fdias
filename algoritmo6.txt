@@ -1,0 +1,7 @@
+base=x
+expoente=y
+leia x
+leia y
+resultado=1
+x=x*y
+
